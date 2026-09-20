@@ -1,0 +1,14 @@
+metric,value
+Raw rows,37352
+Raw columns,16
+Exact duplicate rows removed,4263
+Clean analytical rows,33089
+Unique video IDs,16307
+Unique categories,17
+Missing descriptions in raw data,561
+Median views,275027
+Maximum views,125432237
+Views-likes correlation,0.853
+Views-comments correlation,0.698
+First trending date,2017-11-14
+Last trending date,2018-06-14
