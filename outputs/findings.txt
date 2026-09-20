@@ -1,0 +1,8 @@
+- The raw India file contains 37,352 rows and 16 columns.
+- There are 4,263 exact duplicate rows; the analysis copy removes these duplicates, leaving 33,089 rows.
+- The description field has 561 missing values; the other columns have no missing values in the initial check.
+- Views range from 4,024 to 125,432,237; the median is 275,027, showing a large spread between typical and extreme observations.
+- The Pearson correlation between views and likes is 0.853; correlation is descriptive and does not establish causation.
+- The Pearson correlation between views and comment_count is 0.698; this also represents association within this dataset.
+- The cleaned dataset contains 17 category labels and 16,307 unique video IDs.
+- The parsed trending-date range is 2017-11-14 to 2018-06-14.

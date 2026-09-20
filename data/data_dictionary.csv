@@ -1,0 +1,17 @@
+column,description
+video_id,Unique video identifier
+trending_date,Date on which the video was trending
+title,Video title
+channel_title,Channel title
+category_id,YouTube category identifier
+publish_time,Video publication timestamp
+tags,Video tags
+views,View count
+likes,Like count
+dislikes,Dislike count
+comment_count,Comment count
+thumbnail_link,Thumbnail URL
+comments_disabled,Whether comments were disabled
+ratings_disabled,Whether ratings were disabled
+video_error_or_removed,Whether the video was unavailable/removed
+description,Video description
